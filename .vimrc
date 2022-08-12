@@ -1,3 +1,6 @@
+"spaces not tabs
+set expandtab tabstop=4 shiftwidth=4
+
 "indent automatically
 set smartindent
 
